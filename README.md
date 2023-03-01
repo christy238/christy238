@@ -1,3 +1,4 @@
+<h1>Hey everyone 👋</h1>
 <h3 align="center">A passionate  developer <3 </h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
