@@ -1,5 +1,6 @@
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate  developer <3 </h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+
 - 🔭 I’m currently working on **ClickCash**
 
 - 🌱 I’m currently learning **flutter**
