@@ -1,5 +1,5 @@
 
-<h1>Hey everyone  <img align="center" alt="coding" width="400" src="https://static1.squarespace.com/static/6365ca34d9d2676907679da3/t/638a33f8bf0c3a725d8cdbe4/1670001658898/hello-world-studio.gif?format=1500w">👋</h1> 
+<h1><img align="center" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/6365ca34d9d2676907679da3/50c822ba-6dc5-4dc1-a3d4-bbca0a3a4c32/hello-world.gif?format=1500w">👋</h1> 
 
 <h2 align="center">A passionate  developer <3 </h2>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
