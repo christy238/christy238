@@ -1,6 +1,6 @@
- <img align="right" alt="coding" width="200" src="https://media.tenor.com/M2KYza3mmcoAAAAC/hello-world.gif">
-<h1>Hey everyone 👋</h1> 
- <img align="right" alt="coding" width="200" src="https://images.squarespace-cdn.com/content/v1/6365ca34d9d2676907679da3/50c822ba-6dc5-4dc1-a3d4-bbca0a3a4c32/hello-world.gif">
+
+<h1>Hey everyone  <img align="right" alt="coding" width="200" src="https://images.squarespace-cdn.com/content/v1/6365ca34d9d2676907679da3/50c822ba-6dc5-4dc1-a3d4-bbca0a3a4c32/hello-world.gif">👋</h1> 
+
 <h2 align="center">A passionate  developer <3 </h2>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
