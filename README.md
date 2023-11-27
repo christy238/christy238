@@ -1,3 +1,4 @@
+ <img align="right" alt="coding" width="200" src="https://cdn.shotstack.io/au/v1/msgtwx8iw6/8653b1a3-4939-4739-b6b2-ad435f6dfd8a.gif">
 <h1>Hey everyone 👋</h1> 
  <img align="right" alt="coding" width="200" src="https://images.squarespace-cdn.com/content/v1/6365ca34d9d2676907679da3/50c822ba-6dc5-4dc1-a3d4-bbca0a3a4c32/hello-world.gif">
 <h2 align="center">A passionate  developer <3 </h2>
