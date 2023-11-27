@@ -1,5 +1,5 @@
 
-<h1>Hey everyone  <img align="center" alt="coding" width="200" src="https://www.shutterstock.com/shutterstock/videos/1028849732/thumb/9.jpg?ip=x480">👋</h1> 
+<h1>Hey everyone  <img align="center" alt="coding" width="200" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651461516895/bdym5glUC.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">👋</h1> 
 
 <h2 align="center">A passionate  developer <3 </h2>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
