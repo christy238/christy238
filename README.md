@@ -3,7 +3,7 @@
  👋</h1> 
 
 
-<img align="right" alt="coding" width="500" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+
 
 
 
